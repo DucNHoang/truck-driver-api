@@ -5,3 +5,6 @@ obj/
 
 # macOS files
 .DS_Store
+
+# NuGet packages
+packages/
